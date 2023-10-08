@@ -13,9 +13,6 @@ I've been learning to code for about 3 years now. and Im so inclined to creating
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Programming is my calling
 
-<a href="https://www.x.com/https://twitter.com/Watyekele" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://twitter.com/Watyekele?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
-/></a>
 
 ### Skills
 
